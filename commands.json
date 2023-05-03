@@ -2,6 +2,8 @@
   "commands": [
     "clear D4",
     "clear B4",
-    "clear A8"
+    "clear A8",
+    "clear A2",
+    "clear A1"
   ]
 }
